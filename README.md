@@ -1,2 +1,2 @@
-Amazon Landing Page using HTML and CSS
-Frontend
+Amazon Landing Page using HTML and CSS. <br>
+Frontend practice
